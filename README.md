@@ -22,10 +22,11 @@
 
 <h3> 🤝🏻 Connect with Me </h3>
 
-<p align="center">
-&nbsp; <a href="https://twitter.com/mrlalitkumawat1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:kumawatlalit912@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<p align="left">
+&nbsp; <p> <a href="https://twitter.com/mrlalitkumawat1" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />@Arjun_utd_fan</a>  </p>
+&nbsp; <p> <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" />a._r._j._u._n_01</a>  </p>
+&nbsp; <p> <a href="https://www.linkedin.com/in/kumawatlalit007/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" />https://www.linkedin.com/in/arjun-manikandan-082408231/</a> </p>
+
+&nbsp; <a href="mailto:kumawatlalit912@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" />arjunmanikandan319@gmail.com</a>
 </p>
 
